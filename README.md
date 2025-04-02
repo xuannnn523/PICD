@@ -51,7 +51,6 @@ k_values = {
 
 # Input Data
 Place your graph data in data/real/graph/ directory as .txt files with edge lists:
-markdown
 
 node1 node2
 node1 node3
